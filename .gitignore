@@ -1,0 +1,5 @@
+*.mov
+/Testing_1-backups
+*.stp
+/fp-info-cache
+/Testing_1.kicad_prl
